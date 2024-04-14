@@ -5,7 +5,7 @@
  It provides a user-friendly interface to perform various operations such as adding new student records, updating existing records, viewing student details, and more.
 
 ## Features
-1. Add New Records: Easily add new student records with relevant details like roll number, name, stream, and total marks.
+1. Add New Records: Easily add new student records with relevant details like roll number, name, stream, and total marks
 2. Update Records: Update existing student records with the latest information.
 3. View Records: View detailed information about each student, including their total marks and stream.
 4. Topper Identification: Identify the toppers in each stream based on total marks.
